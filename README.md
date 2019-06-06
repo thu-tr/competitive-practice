@@ -1,3 +1,3 @@
 # competitive-practice
 
-Codes for various problems to practice for coding competitions
+Solution for various problems to practice for coding competitions
