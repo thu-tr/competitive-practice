@@ -7,3 +7,4 @@
 |FreeFood.java|https://open.kattis.com/problems/freefood|
 |Euler.java|https://open.kattis.com/problems/eulersnumber|
 |Coldputer.java|https://open.kattis.com/problems/cold|
+|Sync.java|https://open.kattis.com/problems/synchronizinglists|
